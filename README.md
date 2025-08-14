@@ -2,6 +2,8 @@
 
 ### Site criado para fixação com somente HTML
 ##### Aborda informações sobre o filme, Superman 🟦🟥⬜
+##### A pasta contém o arquivo index.html com o código pronto para localhost 💻
+###### O vídeo apresenta erro de funcionamento em alguns navegadores... 🔴
 
 <details closed> 
   <summary><h2>Informações relevantes ‼️</h2></summary>
